@@ -1,0 +1,208 @@
+
+
+PLAYER RUNNING CYCLE
+
+
+  o
+ /
+/)
+
+  o
+ /
+/>
+
+  o
+ /
+/)
+
+  o
+ /
+/>
+ 
+
+PLAYER RUNNING STOP
+
+o
+ \
+/ \
+
+   o
+    \
+:._/ \
+
+    o
+    |
+    |
+
+
+PLAYER STANDING
+
+o
+|
+|
+
+
+
+PLAYER WALKING CYCLE START
+
+ o
+ |
+ |\
+
+
+PLAYER WALKING CYCLE
+
+
+ o
+(
+)\
+
+ o
+(
+/)
+
+
+
+PLAYER JUMPING
+
+ o
+(
+|)
+
+.|
+|'
+
+PLAYER FALLING
+
+.|
+|'
+
+ o
+(
+|)
+
+
+
+PLAYER LANDING
+
+    o
+   ( 
+:. >> .:
+
+
+GATEKEEPER WALKING CYCLE
+
+  _) ._. 
+ (___>''<
+ /___./
+/  \ )\
+
+ _
+  )  ._. 
+ (___>''<
+ (.__ /
+ ||  |)
+
+
+  _) ._. 
+ (___>''<
+ (.__ /
+/  \ )\
+
+
+ _
+  )  ._. 
+ (___>''<
+ (___./
+ ||  |)
+
+
+ GATEKEEPER SITTING
+
+  ._. 
+  >''<
+ / *|
+( )||
+ \
+ _)
+
+
+GATEKEEPER GIVING COIN
+
+
+  ._. 
+  >''<
+ / *\
+( )| \.
+ \
+ _)
+
+
+  ._. 
+  >''<
+ / *\
+( )| \ .
+ \
+ _)
+
+
+  ._. 
+  >''<
+ / *|
+( )||     .
+ \
+ _)
+
+
+
+
+GATEKEEPER TALKING CYCLE
+
+
+  " ._. "
+    >''<
+   / *|
+  ( )||
+   \
+   _)
+
+
+
+ '' ._. ''
+    >''<
+   / *|
+  ( )||
+   \
+   _)
+
+
+'   ._.   '
+    >''<
+   / *|
+  ( )||
+   \
+   _)
+
+
+    ._.  
+    >''<
+   / *|
+  ( )||
+   \
+   _)
+
+
+
+CROSSROADS SIGN
+
+   
+  <=#=>
+    |
+    |
+  ,.|, .
+   '"
+
+
+
+
+
